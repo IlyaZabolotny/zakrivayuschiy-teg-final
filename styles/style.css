@@ -418,8 +418,4 @@
   .modal__button {
     inline-size: 257px;
   }
-
-  .card__label {
-    inset-inline-end: 11px;
-  }
 }
